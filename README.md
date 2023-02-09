@@ -7,7 +7,7 @@
 * Destroy an object
 
 ## Installation
-*Clone this repository: git clone " "
+*Clone this repository: git clone " https://github.com/abeljemal22/AirBnB_clone.git " <a href="https://github.com/abeljemal22/AirBnB_clone.git/">Visit Abel!</a>
 *Access AirBnb directory: cd AirBnB_clone
 *Run hbnb(interactively): ./console and enter command
 *Run hbnb(non-interactively): echo "" | ./console.py
