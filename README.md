@@ -5,3 +5,9 @@
 * Do operations on objects (count, compute stats, etc...)
 * Update attributes of an object
 * Destroy an object
+
+## Installation
+*Clone this repository: git clone " "
+*Access AirBnb directory: cd AirBnB_clone
+*Run hbnb(interactively): ./console and enter command
+*Run hbnb(non-interactively): echo "" | ./console.py
