@@ -1,29 +1,12 @@
 #!/usr/bin/python
-
-""" holds class User"""
-
+""" holds class State"""
 from models.base_model import BaseModel
 
 
+class State(BaseModel):
+    """Representation of state """
+    name = ""
 
-
-
-class User(BaseModel):
-
-        """Representation of a user """
-
-            email = ""
-
-                password = ""
-
-                    first_name = ""
-
-                        last_name = ""
-
-
-
-                            def __init__(self, *args, **kwargs):
-
-                                        """initializes user"""
-
-                                                super().__init__(*args, **kwargs)
+    def __init__(self, *args, **kwargs):
+        """initializes state"""
+        super().__init__(*args, **kwargs)
